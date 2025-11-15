@@ -1,6 +1,5 @@
 package carrinho;
 
-// CORRIGIDO: Imports estáticos centralizados e organizados
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
